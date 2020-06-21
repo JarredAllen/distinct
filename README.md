@@ -28,5 +28,5 @@ For full documentation on how to use it, consult this crate's
 [documentation on docs.rs][docs].
 
 [crates]: https://crates.io/crates/distinct
-[docs]: https://docs.rs/crates/distinct
+[docs]: https://docs.rs/distinct
 [repo]: https://github.com/JarredAllen/distinct
