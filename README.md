@@ -1,7 +1,7 @@
 distinct
 ========
 
-[![Crates.io Page](https://img.shields.io/crates/v/distinct)][crates]
+[![Crates.io Page](https://img.shields.io/crates/v/distinct.svg)][crates]
 [![Docs.rs Page](https://docs.rs/distinct/badge.svg)][docs]
 
 Two traits for enforcing that two types either must be the same or must
@@ -16,7 +16,7 @@ be different.
 To use in your crate, add this to your `Cargo.toml`:
 ```toml
 [dependencies]
-distinct = "0.1.0"
+distinct = "0.1.1"
 ```
 
 and add this where you want to use it:
@@ -28,5 +28,5 @@ For full documentation on how to use it, consult this crate's
 [documentation on docs.rs][docs].
 
 [crates]: https://crates.io/crates/distinct
-[docs]: https://docs.rs/distinct
+[docs]: https://docs.rs/crates/distinct
 [repo]: https://github.com/JarredAllen/distinct
